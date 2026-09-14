@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AQA Year 10 Maths – GCSE Revision</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>AQA Year 10 Maths – GCSE Revision</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="english.html">English</a>
+    <a href="science.html">Science</a>
+    <a href="geography.html">Geography</a>
+    <a href="french.html">French</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="sheets.html">Revision Sheets</a>
+    <a href="exams.html">Exam Papers</a>
+  </nav>
+</header>
+<main>
+  <h2>Number</h2>
+
+  <div class="topic">
+    <h3>Fractions & Percentages</h3>
+    <div class="card">
+      <strong>Notes:</strong>
+      <p>Convert between fractions, decimals and percentages using division and ×100.</p>
+
+      <strong>Example:</strong>
+      <p>Convert 7/8 to a percentage: 7 ÷ 8 = 0.875 → 87.5%</p>
+
+      <strong>Practice:</strong>
+      <ol>
+        <li>Write 0.36 as a fraction.</li>
+        <li>Increase 120 by 12%.</li>
+        <li>Convert 3/20 to a decimal.</li>
+      </ol>
+
+      <details>
+        <summary>Show answers</summary>
+        <ol>
+          <li>36/100 = 9/25</li>
+          <li>120 × 1.12 = 134.4</li>
+          <li>0.15</li>
+        </ol>
+      </details>
+    </div>
+  </div>
+
+  <!-- Add more topics here (algebra, ratio, geometry, probability) using the same pattern -->
+</main>
+</body>
+</html>
