@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GCSE French – Year 10 Revision</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>GCSE French – Year 10 Revision</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="english.html">English</a>
+    <a href="science.html">Science</a>
+    <a href="geography.html">Geography</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="sheets.html">Revision Sheets</a>
+    <a href="exams.html">Exam Papers</a>
+  </nav>
+</header>
+<main>
+  <h2>Vocabulary</h2>
+
+  <div class="topic">
+    <h3>School</h3>
+    <div class="card">
+      <strong>Notes:</strong>
+      <p>Key words: le collège (school), le professeur (teacher), les devoirs (homework).</p>
+
+      <strong>Example:</strong>
+      <p>“J’aime le français parce que c’est intéressant.”</p>
+
+      <strong>Practice:</strong>
+      <ol>
+        <li>Translate: “I hate homework.”</li>
+        <li>Translate: “The teacher is kind.”</li>
+        <li>Write one sentence about school.</li>
+      </ol>
+
+      <details>
+        <summary>Show answers</summary>
+        <ol>
+          <li>Je déteste les devoirs.</li>
+          <li>Le professeur est gentil.</li>
+          <li>Any correct sentence.</li>
+        </ol>
+      </details>
+    </div>
+  </div>
+
+  <!-- Add grammar (present tense, etc.) -->
+</main>
+</body>
+</html>
