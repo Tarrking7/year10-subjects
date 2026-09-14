@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GCSE Science – Year 10 Revision</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>GCSE Science – Year 10 Revision</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="english.html">English</a>
+    <a href="geography.html">Geography</a>
+    <a href="french.html">French</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="sheets.html">Revision Sheets</a>
+    <a href="exams.html">Exam Papers</a>
+  </nav>
+</header>
+<main>
+  <h2>Biology</h2>
+
+  <div class="topic">
+    <h3>Cells</h3>
+    <div class="card">
+      <strong>Notes:</strong>
+      <p>Cells are the basic units of life. Plant and animal cells have different structures.</p>
+
+      <strong>Example:</strong>
+      <p>Plant cells have chloroplasts for photosynthesis; animal cells do not.</p>
+
+      <strong>Practice:</strong>
+      <ol>
+        <li>Name one structure found only in plant cells.</li>
+        <li>What is the function of mitochondria?</li>
+        <li>Which cell part controls the cell?</li>
+      </ol>
+
+      <details>
+        <summary>Show answers</summary>
+        <ol>
+          <li>Chloroplasts / cell wall.</li>
+          <li>Respiration / energy release.</li>
+          <li>Nucleus.</li>
+        </ol>
+      </details>
+    </div>
+  </div>
+
+  <!-- Add Chemistry and Physics topics similarly -->
+</main>
+</body>
+</html>
+
