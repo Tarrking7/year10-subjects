@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GCSE Geography – Year 10 Revision</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>GCSE Geography – Year 10 Revision</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="english.html">English</a>
+    <a href="science.html">Science</a>
+    <a href="french.html">French</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="sheets.html">Revision Sheets</a>
+    <a href="exams.html">Exam Papers</a>
+  </nav>
+</header>
+<main>
+  <h2>Coasts</h2>
+
+  <div class="topic">
+    <h3>Erosion Processes</h3>
+    <div class="card">
+      <strong>Notes:</strong>
+      <p>Coastal erosion includes hydraulic action, abrasion, attrition and solution.</p>
+
+      <strong>Example:</strong>
+      <p>Hydraulic action: waves force air into cracks, breaking rock apart.</p>
+
+      <strong>Practice:</strong>
+      <ol>
+        <li>Name one erosion process.</li>
+        <li>Which process involves rocks hitting cliffs?</li>
+        <li>Which process dissolves rock?</li>
+      </ol>
+
+      <details>
+        <summary>Show answers</summary>
+        <ol>
+          <li>Hydraulic action / abrasion / attrition / solution.</li>
+          <li>Abrasion.</li>
+          <li>Solution.</li>
+        </ol>
+      </details>
+    </div>
+  </div>
+
+  <!-- Add climate change etc. -->
+</main>
+</body>
+</html>
