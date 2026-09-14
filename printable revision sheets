@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Printable Revision Sheets – Year 10</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Printable Revision Sheets – AQA Style</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="english.html">English</a>
+    <a href="science.html">Science</a>
+    <a href="geography.html">Geography</a>
+    <a href="french.html">French</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="exams.html">Exam Papers</a>
+  </nav>
+</header>
+<main>
+  <h2>Maths – AQA‑style Revision Sheet</h2>
+  <p>Qualification: GCSE Mathematics (AQA), Year 10.</p>
+  <p>Includes Number, Algebra, Ratio, Geometry, Probability with notes, examples and answers.</p>
+
+  <!-- Paste the AQA-style maths sheet content here from earlier -->
+
+  <h2>English – AQA‑style Revision Sheet</h2>
+  <!-- Paste English sheet content -->
+
+  <h2>Science – AQA‑style Revision Sheet</h2>
+  <!-- Paste Science sheet content -->
+
+  <h2>Geography – AQA‑style Revision Sheet</h2>
+  <!-- Paste Geography sheet content -->
+
+  <h2>French – AQA‑style Revision Sheet</h2>
+  <!-- Paste French sheet content -->
+
+  <h2>Computer Science – AQA‑style Revision Sheet</h2>
+  <!-- Paste CS sheet content -->
+</main>
+</body>
+</html>
