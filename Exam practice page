@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Exam Practice Papers – Year 10</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>AQA‑Style Exam Practice Papers</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="english.html">English</a>
+    <a href="science.html">Science</a>
+    <a href="geography.html">Geography</a>
+    <a href="french.html">French</a>
+    <a href="computerscience.html">Computer Science</a>
+    <a href="sheets.html">Revision Sheets</a>
+  </nav>
+</header>
+<main>
+  <h2>Maths – Practice Paper 1 (Non‑Calculator)</h2>
+  <!-- Paste the maths practice paper + mark scheme here -->
+
+  <h2>English – Reading & Writing Paper</h2>
+  <!-- Paste English paper content -->
+
+  <h2>Science – Combined Paper</h2>
+  <!-- Paste Science paper content -->
+
+  <h2>Geography – Coasts & Climate Paper</h2>
+  <!-- Paste Geography paper content -->
+
+  <h2>French – Translation & Grammar Paper</h2>
+  <!-- Paste French paper content -->
+
+  <h2>Computer Science – Hardware & Programming Paper</h2>
+  <!-- Paste CS paper content -->
+</main>
+</body>
+</html>
